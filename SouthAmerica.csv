@@ -1,0 +1,14 @@
+Country,Border Neighbors
+Argentina,Bolivia,Brazil,Chile,Paraguay,Uruguay
+Bolivia,Argentina,Brazil,Chile,Paraguay,Peru
+Brazil,Argentina,Bolivia,Colombia,Guyana,Paraguay,Peru,Suriname,Uruguay,Venezuela
+Chile,Argentina,Bolivia,Peru
+Colombia,Brazil,Ecuador,Peru,Venezuela
+Ecuador,Colombia,Peru
+Falkland Islands,NONE
+Guyana,Brazil,Suriname,Venezuela
+Paraguay,Argentina,Bolivia,Brazil
+Peru,Bolivia,Brazil,Chile,Colombia,Ecuador
+Suriname,Brazil,Guyana
+Uruguay,Argentina,Brazil
+Venezuela,Brazil,Colombia,Guyana
